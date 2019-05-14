@@ -7,5 +7,5 @@
 
 * 数学
 * [数据结构与算法](./algorithm/README.md)
-* 计算机网络
+* [计算机网络](./network/README.md)
 * 软件工程
