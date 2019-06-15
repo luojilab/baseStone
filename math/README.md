@@ -31,12 +31,18 @@
 [B站链接](https://www.bilibili.com/video/av15463995?from=search&seid=16280675537080029434)
 
 
-1. 向量与矩阵
+1. [向量与矩阵](https://staticor.github.io/2019/06/15/baseStone-la-1/)
 2. 矩阵分解(LU, QR, SVD)
 3. 如何描述两个样本的距离--谈Metrics
-4. 文档相似度, 文本聚类, LDA
-5. 基于User或Item的推荐系统-协同过滤(CF)
-6. 图像压缩-主成分分析(PCA)
+4. 图像压缩-主成分分析(PCA)
+5. 文档相似度, 文本聚类, LDA
+6. 基于User或Item的推荐系统-协同过滤(CF)
+
+
+
+deadline: 2019.06.20 
+
+链接： 
 
 ## 综合应用
 
