@@ -40,12 +40,25 @@
 
 
 
-deadline: 2019.06.20 
 
-链接： 
+
+链接：
 
 ## 综合应用
 
 1. 搜索引擎：如何打造一个简单的分布式搜索引擎
 2. 人脸识别：如何从亿万候选集中，快速识别出正确的人脸
 3. 推荐系统：如何用协同过滤、矩阵分解打造一个推荐系统
+
+
+
+## 视频资料
+
+（金勇补充）
+
+*[B站，白板机器学习系列](https://space.bilibili.com/97068901?spm_id_from=333.788.b_765f7570696e666f.1)
+
+*[B站，李宏毅机器学习2017](https://www.bilibili.com/video/av10590361?from=search&seid=16461404092812033231)
+
+*[B站，台大林轩田-机器学习（基石）](https://www.bilibili.com/video/av12463015?from=search&seid=17874823900742104442)
+*[B站，台大林轩田-机器学习（技法）](https://www.bilibili.com/video/av36760800?from=search&seid=17874823900742104442)
